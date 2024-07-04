@@ -1,3 +1,4 @@
+- 1.4.5 - Update mods
 - 1.4.4 - Add Augmentum mod
 - 1.4.3 - Update mods
 - 1.4.2 - Add MidRunArtifacts mod
