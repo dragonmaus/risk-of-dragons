@@ -1,3 +1,4 @@
+- 1.2.0 - Add modified config files
 - 1.1.2 - More dependency updates
 - 1.1.1 - Explicitly specify updated deep dependencies
 - 1.1.0 - Trim mod list a bit

@@ -1,7 +1,7 @@
 {
   "name": "Risk_of_Dragons",
   "description": "Mod pack for my friends and I.",
-  "version_number": "1.1.2",
+  "version_number": "1.2.0",
   "dependencies": [
     "Anreol-ReleasedFromTheVoid-0.0.4",
     "bbepis-BepInExPack-5.4.2113",
