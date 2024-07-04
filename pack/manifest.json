@@ -1,7 +1,7 @@
 {
   "name": "Risk_of_Dragons",
   "description": "Mod pack for my friends and me.",
-  "version_number": "1.4.1",
+  "version_number": "1.4.2",
   "dependencies": [
     "bbepis-BepInExPack-5.4.2113",
     "Bubbet-SkipIntro-1.0.0",
@@ -46,6 +46,7 @@
     "JaceDaDorito-FogboundLagoon-1.1.3",
     "KingEnderBrine-LobbySkinsFix-1.2.1",
     "KingEnderBrine-LobbyVotesSave-1.3.0",
+    "KingEnderBrine-MidRunArtifacts-1.2.1",
     "KingEnderBrine-ProperSave-2.9.0",
     "KingEnderBrine-RandomCharacterSelection-1.4.1",
     "MagnusMagnuson-BiggerBazaar-1.13.13",
