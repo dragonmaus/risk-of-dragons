@@ -1,7 +1,7 @@
 {
   "name": "Risk_of_Dragons",
   "description": "Mod pack for my friends and me.",
-  "version_number": "1.4.3",
+  "version_number": "1.4.4",
   "dependencies": [
     "bbepis-BepInExPack-5.4.2113",
     "Bubbet-SkipIntro-1.0.0",
@@ -95,6 +95,7 @@
     "Rune580-Risk_Of_Options-2.7.1",
     "RuneFox237-Teleporter_Turrets-1.0.3",
     "SeahorseJerky-Wait_For_All_Ready_Votes-1.0.1",
+    "TeamAugmentum-Augmentum-1.0.3",
     "TheRealElysium-WaxQuailMultiJump-1.0.1",
     "ThinkInvis-Hypercrit-2.0.3",
     "tristanmcpherson-R2API-5.0.5",
