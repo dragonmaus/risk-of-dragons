@@ -1,3 +1,4 @@
+- 1.3.3 - Update Rocket mod
 - 1.3.2 - Add Merc skin
 - 1.3.1 - Tweak mod loadout
 - 1.3.0 - Updated and pruned mods
