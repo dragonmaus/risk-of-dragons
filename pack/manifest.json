@@ -1,6 +1,6 @@
 {
   "name": "Risk_of_Dragons",
-  "version_number": "1.4.7",
+  "version_number": "1.4.8",
   "website_url": "https://github.com/dragonmaus/risk-of-dragons",
   "description": "Mod pack for my friends and me.",
   "dependencies": [
@@ -106,7 +106,6 @@
     "viliger-Catacombs-1.0.2",
     "wildbook-TooManyFriends-1.2.1",
     "William758-ZetArtifacts-1.4.9",
-    "XoXFaby-BetterUI-3.0.4",
     "Zenithrium-VanillaVoid-1.5.16"
   ]
 }

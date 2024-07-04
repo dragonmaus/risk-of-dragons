@@ -1,3 +1,4 @@
+- 1.4.8 - Remove BetterUI
 - 1.4.7 - Missed an added dependency
 - 1.4.6 - Add some new maps
 - 1.4.5 - Update mods
