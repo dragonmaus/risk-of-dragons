@@ -1,7 +1,8 @@
 {
   "name": "Risk_of_Dragons",
+  "website_url": "https://github.com/dragonmaus/risk-of-dragons",
   "description": "Mod pack for my friends and me.",
-  "version_number": "1.4.5",
+  "version_number": "1.4.6",
   "dependencies": [
     "bbepis-BepInExPack-5.4.2114",
     "Bubbet-SkipIntro-1.0.0",
@@ -49,6 +50,7 @@
     "KingEnderBrine-MidRunArtifacts-1.2.1",
     "KingEnderBrine-ProperSave-2.10.0",
     "KingEnderBrine-RandomCharacterSelection-1.4.1",
+    "Lawlzee-ProceduralStages-1.16.0",
     "MagnusMagnuson-BiggerBazaar-1.13.13",
     "MagnusMagnuson-ScannerPlusOne-2.7.0",
     "marklow-PrestigiousSkinpack-1.4.2",
@@ -99,6 +101,7 @@
     "TheRealElysium-WaxQuailMultiJump-1.0.1",
     "ThinkInvis-Hypercrit-2.0.3",
     "tristanmcpherson-R2API-5.0.5",
+    "viliger-Catacombs-1.0.2",
     "wildbook-TooManyFriends-1.2.1",
     "William758-ZetArtifacts-1.4.9",
     "XoXFaby-BetterUI-3.0.4",
