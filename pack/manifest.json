@@ -1,8 +1,8 @@
 {
   "name": "Risk_of_Dragons",
+  "version_number": "1.4.7",
   "website_url": "https://github.com/dragonmaus/risk-of-dragons",
   "description": "Mod pack for my friends and me.",
-  "version_number": "1.4.6",
   "dependencies": [
     "bbepis-BepInExPack-5.4.2114",
     "Bubbet-SkipIntro-1.0.0",
@@ -45,6 +45,7 @@
     "HIFU-StageAesthetic-1.0.4",
     "ImKyle4815-ArtifactEnsemble-2.2.2",
     "JaceDaDorito-FogboundLagoon-1.1.3",
+    "JaceDaDorito-LocationsOfPrecipitation-1.1.1",
     "KingEnderBrine-LobbySkinsFix-1.2.1",
     "KingEnderBrine-LobbyVotesSave-1.3.0",
     "KingEnderBrine-MidRunArtifacts-1.2.1",
@@ -91,6 +92,7 @@
     "RiskofThunder-R2API_SceneAsset-1.1.2",
     "RiskofThunder-R2API_Skins-1.1.1",
     "RiskofThunder-R2API_Sound-1.0.2",
+    "RiskofThunder-R2API_Stages-1.0.1",
     "RiskofThunder-R2API_TempVisualEffect-1.0.2",
     "RiskofThunder-R2API_Unlockable-1.0.2",
     "RiskofThunder-RoR2BepInExPack-1.14.0",
@@ -106,6 +108,5 @@
     "William758-ZetArtifacts-1.4.9",
     "XoXFaby-BetterUI-3.0.4",
     "Zenithrium-VanillaVoid-1.5.16"
-  ],
-  "website_url": ""
+  ]
 }
