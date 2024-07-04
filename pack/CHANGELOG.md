@@ -1,3 +1,4 @@
+- 1.3.1 - Tweak mod loadout
 - 1.3.0 - Updated and pruned mods
 - 1.2.2 - Updated mods
 - 1.2.1 - Update BetterUI
