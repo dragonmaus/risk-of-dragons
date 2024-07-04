@@ -1,3 +1,4 @@
+- 1.2.2 - Updated mods
 - 1.2.1 - Update BetterUI
 - 1.2.0 - Add modified config files
 - 1.1.2 - More dependency updates
