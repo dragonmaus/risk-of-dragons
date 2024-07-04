@@ -1,3 +1,4 @@
+- 1.4.1 - Config changes
 - 1.4.0 - Trim mods again, swap out aesthetic stuff
 - 1.3.4 - Update Rocket mod again
 - 1.3.3 - Update Rocket mod

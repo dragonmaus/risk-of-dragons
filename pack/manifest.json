@@ -1,7 +1,7 @@
 {
   "name": "Risk_of_Dragons",
   "description": "Mod pack for my friends and me.",
-  "version_number": "1.4.0",
+  "version_number": "1.4.1",
   "dependencies": [
     "bbepis-BepInExPack-5.4.2113",
     "Bubbet-SkipIntro-1.0.0",
