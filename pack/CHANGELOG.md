@@ -1,3 +1,4 @@
+- 1.4.10 - Update mods
 - 1.4.9 - Update mods
 - 1.4.8 - Remove BetterUI
 - 1.4.7 - Missed an added dependency
